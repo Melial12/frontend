@@ -1,0 +1,246 @@
+/* blog */
+.blog {
+    position: absolute;
+    width: 100%;
+    height: 100vh; /* Gunakan unit viewport height (vh) */
+    background: #E1EAF2; /* Warna latar belakang Anda */
+  }
+  
+  
+  /* Frame 2 */
+  .frame-2 {
+    position: absolute;
+    width: 13px;
+    height: 14px;
+    left: 513px;
+    top: 138px;
+  }
+  
+  /* Image 1 */
+  .image-1 {
+    position: absolute;
+    width: 26px;
+    height: 32px;
+    left: 74px;
+    top: 54px;
+    background: url('../img/alat.png');
+  }
+  
+  /* Rectangle 8 */
+  .rectangle-8 {
+    position: absolute;
+    width: 255px;
+    height: 59px;
+    left: 650px;
+    top: 734px;
+    background: #ABC1E2;
+    border-radius: 10px;
+  }
+  
+  /* CONTACT US */
+  .contact-us {
+    position: absolute;
+    width: 140px;
+    height: 51px;
+    left: 48%;
+    top: 738px;
+    font-family: 'Karma';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+  }
+  
+  /* HOME */
+  .home {
+    position: absolute;
+    width: 140px;
+    height: 51px;
+    left: 0px;
+    top: -97px;
+    font-family: 'Karma';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+  }
+  
+  /* Rectangle 20 */
+  .rectangle-20 {
+    position: absolute;
+    width: 100%;
+    height: 119px;
+    left: 0px;
+    top: 194px;
+    background: #C7D7EF;
+    border-radius: 10px;
+  }
+  
+  /* Rectangle 22 */
+  .rectangle-22 {
+    position: absolute;
+    width: 100%;
+    height: 119px;
+    left: 0px;
+    top: 881px;
+    background: #C7D7EF;
+    border-radius: 10px;
+  }
+  
+  /* Rectangle 21 */
+  
+  
+  /* HOME */
+  .home {
+    position: absolute;
+    width: 99px;
+    height: 19px;
+    left: 575px; /* Mengatur left sama dengan left .order */
+    top: 73px;
+    font-family: 'Karma';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+  }
+  
+  /* ORDER */
+  .order {
+    position: absolute;
+    width: 99px;
+    height: 19px;
+    left: 575px;
+    top: 73px;
+    font-family: 'Karma';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+  }
+  
+  /* BLOG */
+  .blog-text {
+    width: 100px;
+    height: 19px;
+    left: 575px; /* Mengatur left sama dengan left .order */
+    top: 80px;
+    font-family: 'Karma';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+  }
+  
+  
+  /* CleanFun-removebg-preview 3 */
+  .clean-fun-removebg-preview-3 {
+    position: absolute;
+    width: 111px;
+    height: 97px;
+    left: 29px;
+    top: 18px;
+    background: url('../img/CF.png');
+  }
+  
+  /* Image 10 */
+  
+  
+  /* ABOUT US!! */
+  .about-us {
+    position: absolute;
+    width: 417px;
+    height: 183px;
+    left: 55%; /* Memposisikan elemen di tengah horizontal */
+    margin-left: -208.5px; /* Setengah dari lebar elemen (417px / 2) */
+    top: 171px;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 58px;
+    display: flex;
+    align-items: center;
+    color: #163A65;
+}
+
+  
+ 
+  .d87219349aaa2d5536bd6ec78b6091b4-removebg-preview-3 {
+    position: absolute;
+    width: 198px;
+    height: 212px;
+    left: 1350px;
+    top: 142px;
+    background: url('../img/alat.png');
+    background-size: 50%; /* Misalnya, mengatur ukuran gambar 50% dari aslinya */
+  }
+  
+  .d87219349aaa2d5536bd6ec78b6091b4-removebg-preview-4 {
+    position: absolute;
+    width: 198px;
+    height: 212px;
+    left: 200px;
+    top: 138px;
+    background: url('../img/alat.png');
+    background-size: 50%; /* Misalnya, mengatur ukuran gambar 50% dari aslinya */
+  }
+  
+  
+  /* Deskripsi Blog */
+  .blog-description {
+    position: absolute;
+    width: 1325px;
+    height: 308px;
+    left: 50%;
+    top: 387px;
+    font-family: 'Karma';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    transform: translateX(-50%);
+  }
+  
+  
+  /* @cleanfun2023 */
+  .clean-fun-2023 {
+    position: absolute;
+    width: 178px;
+    height: 46px;
+    left: 48%;
+    top: 914px;
+    font-family: 'Karma';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+  
